@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.head h2 {
+    font-size: 53px;
+    font-family: cursive;
+    color: rgb(0, 0, 0);
+}
+
+.main-btn {
+    padding: 20px;
+    gap: 8px;
+}
+
+.main-btn button {
+    padding: 13px 13px;
+    width: unset;
+    margin: 78px 0px;
+    font-size: 19px;
+    font-family: fangsong;
+    font-weight: 600;
+    background-color: #b40ed1;
+    border: none;
+    color: white;
+}
